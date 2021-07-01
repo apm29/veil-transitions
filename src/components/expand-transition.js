@@ -68,4 +68,3 @@ export default function (expandedParentClass = '', x = false) {
     delete el._initialStyle;
   }
 }
-//# sourceMappingURL=expand-transition.mjs.map
