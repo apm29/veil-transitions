@@ -1,5 +1,5 @@
 {
-  "version": "0.0.1",
+  "version": "0.0.3",
   "name": "veil-transitions",
   "description": "从vuetify copy一部分定制transitions",
   "author": "apm29",

@@ -1,6 +1,5 @@
 // Utilities
 import { defineComponent, h, Transition, TransitionGroup } from 'vue';
-import "./index.css"
 export function createCssTransition(name, origin = 'top center 0', mode) {
   return defineComponent({
     name,

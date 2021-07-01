@@ -3,6 +3,7 @@ import {
   createJavascriptTransition,
 } from './create-transitions.js'
 import ExpandTransitionGenerator from "./expand-transition.js";
+import "./index.css"
 export const VeilCarouselTransition = createCssTransition('carousel-transition');
 export const VeilCarouselReverseTransition = createCssTransition('carousel-reverse-transition');
 export const VeilTabTransition = createCssTransition('tab-transition');
