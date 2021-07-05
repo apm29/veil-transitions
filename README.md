@@ -6,7 +6,7 @@
 
 ```javascript
 import { VeilSlideYTransition, VeilScaleTransition } from "veil-transitions"
-import "veil-transitions/src/components/index.css"
+import "veil-transitions/src/lib-components/index.css"
 
 export default {
   components: { VeilSlideYTransition, VeilScaleTransition }
